@@ -1,0 +1,35 @@
+{
+  "research_output": "Agent stopped due to iteration limit or time limit.",
+  "intermediate_steps": [
+    [
+      "tool='_Exception' tool_input=\"Invalid Format: Missing 'Action:' after 'Thought:'\" log='```json\\n{\"tool\": \"financial_data_research\", \"tool_input\": \"AAPL, MSFT, GOOGL\"}\\n```'",
+      "Invalid Format: Missing 'Action:' after 'Thought:'"
+    ],
+    [
+      "tool='_Exception' tool_input=\"Invalid Format: Missing 'Action:' after 'Thought:'\" log='```json\\n{\"tool\": \"financial_data_research\", \"tool_input\": \"AAPL, MSFT, GOOGL\"}\\n```'",
+      "Invalid Format: Missing 'Action:' after 'Thought:'"
+    ],
+    [
+      "tool='_Exception' tool_input=\"Invalid Format: Missing 'Action:' after 'Thought:'\" log='```json\\n{\"tool\": \"financial_data_research\", \"tool_input\": \"AAPL, MSFT, GOOGL\"}\\n```'",
+      "Invalid Format: Missing 'Action:' after 'Thought:'"
+    ],
+    [
+      "tool='_Exception' tool_input=\"Invalid Format: Missing 'Action:' after 'Thought:'\" log='```json\\n{\"tool\": \"financial_data_research\", \"tool_input\": \"AAPL, MSFT, GOOGL\"}\\n```'",
+      "Invalid Format: Missing 'Action:' after 'Thought:'"
+    ],
+    [
+      "tool='_Exception' tool_input=\"Invalid Format: Missing 'Action:' after 'Thought:'\" log='```json\\n{\"tool\": \"financial_data_research\", \"tool_input\": \"AAPL, MSFT, GOOGL\"}\\n```'",
+      "Invalid Format: Missing 'Action:' after 'Thought:'"
+    ],
+    [
+      "tool='_Exception' tool_input=\"Invalid Format: Missing 'Action:' after 'Thought:'\" log='```json\\n{\"tool\": \"financial_data_research\", \"tool_input\": \"AAPL, MSFT, GOOGL\"}\\n```'",
+      "Invalid Format: Missing 'Action:' after 'Thought:'"
+    ]
+  ],
+  "symbols_analyzed": [
+    "AAPL",
+    "MSFT",
+    "GOOGL"
+  ],
+  "research_timestamp": "20250917_040012"
+}

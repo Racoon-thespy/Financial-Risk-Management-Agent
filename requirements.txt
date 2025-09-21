@@ -1,0 +1,12 @@
+langchain
+langchain-google-genai
+langchain-community
+yfinance
+pandas
+numpy
+streamlit
+python-dotenv
+requests
+matplotlib
+plotly
+scipy

@@ -1,0 +1,13 @@
+{
+  "report_title": "Financial Risk Management Research Report",
+  "symbols_analyzed": [
+    "AAPL",
+    "MSFT",
+    "GOOGL"
+  ],
+  "timestamp": "20250917_040202",
+  "filename": "financial_risk_research_report_20250917_040202.md",
+  "filepath": "outputs/research_reports/financial_risk_research_report_20250917_040202.md",
+  "analysis_period": "2y",
+  "research_type": "Academic Financial Risk Assessment"
+}
